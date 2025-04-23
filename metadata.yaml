@@ -1,0 +1,31 @@
+_repo: Erzahlungen-aus-dem-Ries_75688
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Meyr, Melchior
+    birthdate: 1810
+    deathdate: 1871
+    gutenberg_agent_id: '47966'
+    url: http://www.gutenberg.org/2009/agents/47966
+    wikipedia: https://en.wikipedia.org/wiki/Melchior_Meyr
+description: ''
+gutenberg_issued: '2025-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75688'
+language: de
+pgterms:marc905: 20200311013856meyer
+pgterms:marc906: '1856'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aBerlin :$bVerlag von Julius Springer, $c1856.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 19th century'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: Ludwig und Annemarie -- Die Lehrersbraut -- Ende gut, Alles gut.
+title: Erzählungen aus dem Ries
+url: http://www.gutenberg.org/ebooks/75688
